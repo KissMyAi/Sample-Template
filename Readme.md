@@ -10,7 +10,7 @@ You're welcome to use this mod as a template for your own creations. In GitHub, 
 
 ## Contributing
 If you want people to be able to contribute to your mod, explain how here. 
-This template is amazingly detailed and surprisingly easy to do/read.
+This template is amazingly detailed and surprisingly easy to do/read. Perhaps I spoke a lil' too soon. I am still not quite sure what I am doing. 
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
