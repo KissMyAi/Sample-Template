@@ -9,11 +9,12 @@ You're welcome to use this mod as a template for your own creations. In GitHub, 
 [![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
 
 ## Contributing
-If you want people to be able to contribute to your mod, explain how here.
+If you want people to be able to contribute to your mod, explain how here. 
+This template is amazingly detailed and surprisingly easy to do/read.
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
-Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one.
+Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one.I already have this.
 
 [![Compatible with Laughing Leader's Baldur's Gate 3 Mod Manager](https://i.imgur.com/qtdx2Yq.png)](https://github.com/LaughingLeader/BG3ModManager)
 
